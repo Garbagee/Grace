@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Grace:war exploded2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Grace_war_exploded2</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Grace" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Grace/web/Web" />
+      <element id="javaee-facet-resources" facet="Grace/web/webapp" />
+    </root>
+  </artifact>
+</component>
